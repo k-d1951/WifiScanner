@@ -1,4 +1,4 @@
-package com.example.kimya.wifiscanner;
+package com.example.....wifiscanner;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
